@@ -46,7 +46,7 @@ class BitTweaks : JavaPlugin() {
             getBoolean("tweaks.alphaTNT", false)
             getBoolean("tweaks.explosionNoBlockBreak", false)
             getBoolean("tweaks.disableSleeping", false)
-            getBoolean("tweaks.pigZombieNoBeefDrop", true)
+            getBoolean("tweaks.disablePigZombieDrops", true)
             getBoolean("tweaks.silkyGoldenPickaxe", false)
             getBoolean("tweaks.hoeOnGrassForSeeds", true)
             getBoolean("tweaks.canBonemealSugarcane", true)

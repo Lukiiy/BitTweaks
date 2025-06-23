@@ -52,7 +52,7 @@ public class EntityEcho extends EntityListener {
             return;
         }
 
-        if (entity instanceof PigZombie && BitTweaks.getTweak("pigZombieNoBeefDrop")) {
+        if (entity instanceof PigZombie && BitTweaks.getTweak("disablePigZombieDrops")) {
             e.getDrops().clear();
             return;
         }

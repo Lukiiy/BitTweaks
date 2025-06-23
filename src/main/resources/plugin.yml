@@ -1,0 +1,9 @@
+name: BitTweaks
+version: '1.0'
+main: me.lukiiy.bittweaks.BitTweaks
+author: Lukiiy
+description: Toggles and reworks some mechanics
+commands:
+  bittweaks:
+    permission: bittweaks.cmd
+    usage: "/<command>"
